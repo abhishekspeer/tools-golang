@@ -43,8 +43,9 @@ are welcome!
 
 ## Requirements
 
-At present, tools-golang does not require anything outside the Go standard
-library.
+* [libraptor2](http://librdf.org/raptor/) for parsing and serializing RDF
+* deltamobile/goraptor fork of [goraptor](http://github.com/deltamobile/goraptor)
+  by [William Waites](https://bitbucket.org/ww/goraptor)
 
 ## Licenses
 
