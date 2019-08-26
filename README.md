@@ -44,8 +44,8 @@ are welcome!
 
 ## Requirements
 
-* libraptor2 for parsing and serializing RDF
-* @deltamobile/goraptor fork of goraptor by William Waites for RDF
+* [libraptor2](http://librdf.org/raptor/) for parsing and serializing RDF
+* [goraptor](https://github.com/deltamobile/goraptor) fork of [goraptor](https://bitbucket.org/ww/goraptor/src) by William Waites for RDF
 
 ## Licenses
 
